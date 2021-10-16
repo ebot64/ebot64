@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on an edTech
 - 🌱 I’m currently learning "Deep Learning" 🤔 
 - 👯 I’m looking to collaborate on Data Science Projects
-- 💬 Ask me about Flutter and Dart Programming
+- 💬 Ask me about Data Science and Mobile App Development using Flutter
 - 📫 How to reach me: ebot64@yahoo.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: 🤔 
