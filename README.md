@@ -4,8 +4,7 @@
 - 👯 I’m looking to collaborate on Data Science Projects
 - 💬 Ask me about Data Science and Mobile App Development using Flutter
 - 📫 How to reach me: ebot64@yahoo.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: 🤔 
+- 📊 My Data Science e-Porfolio: https://eportfolio.greatlearning.in/tobechukwu-ezenachukwu
 
 <h4>Profile stats :musical_keyboard:</h4>
 
