@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on an edTech, <a href="https://play.google.com/store/apps/details?id=com.exampact.exampact">exampact</a>
-- 🌱 I’m currently learning "Deep Learning" 🤔 
+- 🌱 I’m currently learning Cloud Computing 🤔 
 - 👯 I’m looking to collaborate on Data Science Projects
 - 💬 Ask me about Data Science and Mobile App Development using Flutter
 - 📫 How to reach me: ebot64@yahoo.com
