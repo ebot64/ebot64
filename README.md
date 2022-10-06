@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently deploying machine learning algorithms to the cloud
-- I'm currently taking GreatLearning course on Cloud Computing - end goal is to be able to deploy machine learning algos to the cloud for client consumption
+- 🌱 Taking a deep dive into Cloud Computing; end goal -> deploy machine learning algos on AWS or Azure; devops|docker|flask|ec2|kubernetes|jenkins
 - 👯 I’m looking to collaborate on Data Science Projects
 - 💬 Ask me about Data Science and Mobile App Development using Flutter
 - 📫 How to reach me: ebot64@yahoo.com
