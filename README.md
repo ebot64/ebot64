@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on an edTech, <a href="https://play.google.com/store/apps/details?id=com.exampact.exampact">exampact</a>
-- 🌱 I’m currently learning Cloud Computing 🤔 
+- 🌱 I’m currently deploying machine learning algorithms to the cloud
+- I'm currently taking GreatLearning course on Cloud Computing - end goal is to be able to deploy machine learning algos to the cloud for client consumption
 - 👯 I’m looking to collaborate on Data Science Projects
 - 💬 Ask me about Data Science and Mobile App Development using Flutter
 - 📫 How to reach me: ebot64@yahoo.com
@@ -17,6 +17,10 @@
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=0075BA)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FFCD3A)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=F89820)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=F89820)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
 ### Find me!
