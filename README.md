@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 Taking a deep dive into Cloud Computing; end goal -> deploy machine learning algos on AWS or Azure
+- 🌱 Taking a deep dive into Cloud Computing; end goal -> Deploy machine learning models on Azure and AWS
 - ☁️ devops | docker | flask | ec2 | kubernetes | jenkins
 - 👯 I’m looking to collaborate on Data Science Projects
 - 💬 Ask me about Data Science and Mobile App Development using Flutter
